@@ -1,0 +1,12 @@
+{
+  "app\\page.tsx -> @/lib/farcaster-sdk": {
+    "id": 242,
+    "files": []
+  },
+  "components\\farcaster-init.tsx -> @/lib/farcaster-sdk": {
+    "id": 242,
+    "files": [
+      "static/chunks/242.63c3e1e2a7f73b8a.js"
+    ]
+  }
+}
